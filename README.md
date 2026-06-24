@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Natan 👋
 
-<!--
-**Natan-Mp4/Natan-Mp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer passionate about design, fashion culture and creative digital experiences.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+* Tailwind CSS
+* Vite
+
+## Featured Project
+
+### DARKFALL WINGS
+
+A fictional concept website imagining a collaboration between Adidas Originals, Jeremy Scott and Rick Owens.
+
+Features:
+
+* Responsive design
+* Product storytelling
+* Editorial visual direction
+* Modern frontend architecture
+
+## Currently Learning
+
+* Next.js
+* Three.js
+* Advanced UI Animation
+
+## Contact
+
+* GitHub: github.com/Natan-Mp4
+* Email: mpnatan@gmail.com
